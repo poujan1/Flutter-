@@ -1,0 +1,28 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"iphone",
+            "desc":"iphone 14",
+            "price":120000,
+            "color":"gray",
+            "image":""
+        },
+        {
+            "id":1,
+            "name":"iphone",
+            "desc":"iphone 14",
+            "price":120000,
+            "color":"gray",
+            "image":""
+        },{
+            "id":1,
+            "name":"iphone",
+            "desc":"iphone 14",
+            "price":120000,
+            "color":"gray",
+            "image":""
+        }
+        
+    ]
+}
